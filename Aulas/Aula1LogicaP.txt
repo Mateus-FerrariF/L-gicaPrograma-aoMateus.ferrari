@@ -1,0 +1,34 @@
+Dado: Fenomeno sem significado
+Informação: dado com significado
+Algoritmo: Sequencia ordenada de passos
+
+Atividades:
+1)Sequencia das placas = ["Km 1", "Km 2", "Obras", "Curva Perigosa a 200m", "Curva Perigosa", "Km 5", "Escola"]
+
+2)*entrar na fila, *aguardar a vez, *entregar o cartão ao caixa, *informar o valor a retirar e digitar a senha, 
+*pegar o comprovante do saque, cartão e dinheiro, *sair do banco
+
+3) acessar o aplicativo, informar o destino desejado, confirmar o serviço, esperar o carro, entrar no carro, pagar ao motorista, sair do carro, entrar no prédio do Camargo Aranha, encaminhar-se à sala de aula
+
+4) 
+1-Primeiro leve o bode para margem B, 						H+B -> MB MB = (H, B) MA = (L, A)
+2-depois volte sozinho para margem A, 						H   -> MA MB = (B)    MA = (L, A, H)
+3-depois leve as alfafas para margem B, 					H+A -> MB MB = (H, B, A) MA = (L)
+4-traga o bode de volta para margem A, 						H+B -> MA MB = (A) MA = (H, L, B)
+5-depois pegue o lobo e deixe com as alfafas na margem B, 			H+L -> MB MB = (L, A, H) MA = (B)
+6-agora volte para margem A							H   -> MA MB = (L, A) MA = (B, H)
+7-pegue o bode e leve até o outro lado do rio 					H+B -> MB MB = (L, A, B, H) MA = ()
+:D
+
+5)
+1-Dois canibais vão para o lado B
+2-Um canibal volta para o lado A
+3-Dois canibais vão para o lado B
+4-Um canibal volta para o lado A
+5-Dois missionarios vão para o lado B
+6-Um canibal e um missionario volta para o lado A
+7-Dois missionarios vão para o lado B
+8-um canibal volta para o lado A
+9-Dois canibais vão para o lado B
+10-Um canibal volta para o lado A
+11-Dois canibais vão para o lado B
