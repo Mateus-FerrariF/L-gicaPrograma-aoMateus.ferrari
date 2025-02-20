@@ -1,0 +1,49 @@
+
+Lógica:
+Entrada --> Processamento --> Saída	
+
+Físico:
+Entradas --> Unidade de controle de Processamento --> Saídas
+
+
+-------------------------------------------------------------------------
+
+Variavel = Reserva de espaço na memória (armazenamento de dados)
+
+-------------------------------------------------------------------------
+Estrutura de
+Controle Sequencial:			Estrutura Condicional:		Estrutura repetitiva:
+Entrada:				Entrada:			Entrada:
+Variaveis/Valores iniciais		E = [A, B]			S = 10
+Entrada = [A, B] 							
+									
+Processamento:				Processamento			Processamento
+Soma de [A, B] 				A>B?				
+S <-- A+B				->yes				
+									
+Saída:									
+Retorna o valor processado		A é maior que B			
+return S								
+-------------------------------------------------------------------------
+
+Programa compilado:
+		      CPU (gera o Programa Executável)		Programa Executável
+		      🠕 🠗					      🠕  🠗
+Programa Fonte --> Compilador --> Programa Executável		    S.O./CPU
+(Linguagem)	 (Transformador					
+		    de 0/1)					
+
+Programa interpretado:
+Programa Fonte --> Interpretador --> CPU
+
+-------------------------------------------------------------------------
+
+Fluxograma: simbolos utilizados para fazer uma representação do algoritmo, existem simbolos padronizados
+; Estruturar o algoritimo, Exemplifica a sequencia de passos
+
+Simbolos: https://hewerton.gitbooks.io/fla/content/imgs/cap1/fluxograma.jpg
+
+Exemplo1 estruturado: https://miro.medium.com/v2/resize:fit:988/0*TKBmRm1RAxl1eQtr
+Exemplo2 estruturado: https://miro.medium.com/v2/resize:fit:996/0*fU5nNtX1JZsavjet
+
+Site para criar fluxograma: draw.io
