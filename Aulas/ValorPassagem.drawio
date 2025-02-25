@@ -23,7 +23,7 @@
             <mxPoint x="970" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlLCuXtaIKeEyEbp-Agc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="rlLCuXtaIKeEyEbp-Agc-6" target="rlLCuXtaIKeEyEbp-Agc-11">
+        <mxCell id="rlLCuXtaIKeEyEbp-Agc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.499;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlLCuXtaIKeEyEbp-Agc-6" target="rlLCuXtaIKeEyEbp-Agc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rlLCuXtaIKeEyEbp-Agc-6" value="Valor da passagem&amp;gt;Saldo do vale?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
