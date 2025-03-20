@@ -1,0 +1,10 @@
+Criar os seguintes fluxogramas 
+
+Criar um fluxograma que receba dois valores, e identifique o maior valor, e imprima o maior valor na tela.
+
+Criar um fluxo que receba idade, sexo e nome. Verifique se idade é maior que 25 e sexo feminino, se sim imprima o nome, idade e sexo, e uma frase seu perfil foi selecionado.
+
+Criar um fluxograma que tenha saldo em conta de 500 reais, onde tenha saque diário de 20 reais por dia,  r mostrar o saldo conforme saque,  quando o saldo acabar dizer que não tem saldo.
+
+ 
+
