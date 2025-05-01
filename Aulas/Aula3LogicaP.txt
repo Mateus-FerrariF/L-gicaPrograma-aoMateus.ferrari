@@ -1,0 +1,33 @@
+caso 
+
+ex:
+escolha(var) {
+caso var1:
+	comando
+	pare
+caso var2:
+	comando
+	pare
+caso var3:
+	comando
+	pare
+}
+
+ex: (portugol)
+
+caractere oper
+
+escreva("Entre com operador: ")
+leia (oper)
+
+escolha(oper)
+{
+caso '+':
+	escreva ("Soma = ",6 + 4)
+	pare
+caso '-':
+	escreva ("Subtração = ",6 - 4)
+	pare
+caso contrario:
+	escreva("Não é soma nem subtração.")
+}
