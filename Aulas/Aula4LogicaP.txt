@@ -1,0 +1,13 @@
+Estrutura de repetição Para//Faça
+
+Exemplo: 
+
+inteiro num, produto
+inteiro cont
+
+para (cont = 1; cont<=5; cont+1) 
+{
+	leia(num)
+	produto = num*3
+	escreva(produto)
+}
