@@ -3,15 +3,17 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro val, cont
+		inteiro sal, cont
 		
-		cont = 1
-		enquanto(cont<16)
+		para (sal=1000;sal>0;sal=sal-100)
 		{
-			escreva("\n",cont)
-			cont++
+			escreva("\nSaldo restante: ",sal)	
 		}
-		escreva("\nSua idade é ", cont)
+		se (sal==0) 
+		{
+			escreva("\nSEM SALDO NO BANCO")
+		}
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -19,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 66; 
+ * @POSICAO-CURSOR = 148; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

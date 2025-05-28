@@ -3,9 +3,10 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro val, cont
-
-		para (cont=1;cont<16;cont++)
+		inteiro val, cont, idade
+		
+		idade = 16
+		para (cont=1;cont<idade;cont++)
 		{
 			escreva("\n",cont)
 		}
@@ -17,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 74; 
+ * @POSICAO-CURSOR = 56; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
