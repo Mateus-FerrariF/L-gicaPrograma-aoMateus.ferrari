@@ -1,0 +1,28 @@
+Vetores e Matrizes
+
+Vetor/Matriz Unidimensional: é uma variável que é um conjunto de dados do mesmo tipos 
+e acessados por meio de uma posição relativa (Indice//Index)
+
+[0] [1] [2] [3] [4] [5]
+
+
+Matriz:
+bi dimensional
+
+[0,0] [0,1] [0,2]
+[1,0] [1,1] [1,2]
+[2,0] [2,1] [2,2]
+
+exemplo portugol:
+
+7elementos:
+
+Cadeia vSem(7)
+
+	vSem(0) = "Domingo"
+	vSem(1) = "Segunda-Feira"
+	vSem(2) = "Terça-Feira"
+	vSem(3) = "Quarta-Feira"
+	vSem(4) = "Quinta-Feira"
+	vSem(5) = "Sexta-Feira"
+	vSem(6) = "Sábado"
